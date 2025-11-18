@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="GMapToGPX 6.9b - http://www.elsewhere.org/GMapToGPX/"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>From: 33.639343, -117.740211 To: 33.639111, -117.740277</name>
+  <desc>Driving directions from 33.639343, -117.740211 to 33.639111, -117.740277</desc>
+  <time>2025-11-18T07:44:53Z</time>
+</metadata>
+<trk>
+  <name>From: 33.639343, -117.740211 To: 33.639111, -117.740277</name>
+  <desc>Driving directions from 33.639343, -117.740211 to 33.639111, -117.740277</desc>
+<trkseg>
+<trkpt lat="33.639343" lon="-117.740211"><ele>86</ele></trkpt>
+<trkpt lat="33.639286" lon="-117.740226"><ele>86</ele></trkpt>
+<trkpt lat="33.639233" lon="-117.740243"><ele>86</ele></trkpt>
+<trkpt lat="33.639176" lon="-117.740261"><ele>86</ele></trkpt>
+<trkpt lat="33.639111" lon="-117.740277"><ele>86</ele></trkpt>
+</trkseg>
+</trk>
+</gpx>
